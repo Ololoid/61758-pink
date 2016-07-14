@@ -1,7 +1,7 @@
 # Личный проект «Пинк» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Алексей Енот](https://up.htmlacademy.ru/adaptive/7/user/61758).
-* Наставник: `Неизвестно`.
+* Наставник: `Алексей Малейков`.
 
 ---
 
